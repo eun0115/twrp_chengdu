@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_chengdu.mk
+    $(LOCAL_DIR)/twrp_chengdu.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_chengdu-eng
+    twrp_chengdu-eng
